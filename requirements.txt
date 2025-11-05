@@ -1,0 +1,10 @@
+flask
+requests
+python-dotenv
+apscheduler
+redis
+ccxt
+playwright
+aiohttp
+pandas
+numpy
