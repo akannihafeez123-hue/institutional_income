@@ -1,0 +1,2 @@
+web: python legendary_income_empire:app
+worker: python legendary_income_empire.py
