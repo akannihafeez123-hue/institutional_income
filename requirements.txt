@@ -1,8 +1,0 @@
-flask
-requests
-numpy
-pandas
-scikit-learn
-apscheduler
-web3
-eth-account
