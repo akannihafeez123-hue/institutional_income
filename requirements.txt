@@ -1,9 +1,0 @@
-
-## 📦 **REQUIREMENTS.TXT INCLUDES:**
-```
-solana>=0.30.2              # Solana SDK
-solders>=0.18.1             # Solana types
-python-telegram-bot>=20.7   # Telegram
-aiohttp>=3.9.1              # Async HTTP
-base58>=2.1.1               # Encoding
-python-dotenv>=1.0.0        # Environment vars
