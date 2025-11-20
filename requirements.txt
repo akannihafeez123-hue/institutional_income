@@ -1,0 +1,7 @@
+python-dotenv==1.0.0
+aiohttp==3.8.4
+solana==0.26.0
+solders==0.22.0
+python-telegram-bot==20.3
+base58==2.1.1
+pytest==7.4.0
