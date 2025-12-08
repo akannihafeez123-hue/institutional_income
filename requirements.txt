@@ -1,0 +1,8 @@
+# requirements.txt - Lightweight packages only
+# Heavy packages auto-installed by the script
+
+pandas==2.0.3
+numpy==1.24.3
+aiohttp==3.9.1
+python-telegram-bot==20.7
+ta==0.11.0
