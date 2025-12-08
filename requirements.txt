@@ -1,0 +1,10 @@
+# Light dependencies - install with pip
+pandas==2.0.3
+numpy==1.24.3
+aiohttp==3.9.1
+python-telegram-bot==20.7
+vaderSentiment==3.3.2
+nltk==3.8.1
+
+# Heavy dependencies are installed at runtime by the script
+# scipy, ta, scikit-learn, hurst, pywavelets, statsmodels, networkx, pykalman
